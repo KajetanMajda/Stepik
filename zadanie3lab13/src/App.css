@@ -1,0 +1,23 @@
+/* App.css */
+.photo-container {
+  text-align: center;
+}
+
+.photo {
+  width: 400px;
+  height: 400px;
+  object-fit: cover;
+}
+
+.photo-details {
+  margin-top: 10px;
+}
+
+.photo-details-link {
+  display: block;
+  margin-top: 10px;
+}
+
+.navigation-button {
+  margin-top: 10px;
+}
